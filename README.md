@@ -1,2 +1,19 @@
 # SkroutzSmarterCart
-Shopping list from skroutz with smarter cart
+
+Έφαρμογή που βάζεις τα links από διάφορα προϊόντα από το skroutz και σου βγάζει πιο κατάστημα τα έχει στην χαμηλότερη τιμή.   
+
+Δηλαδή είναι όπως στο έξυπνο καλάθι που έχει κάνει το skroutz, μόνο που δουλεύει σε όλες τις κατηγορίες και για όλα τα καταστήματα (όχι μόνο αυτά που έχουν μπει στο έξυπνο καλάθι)
+
+π.χ. θέλει κάποιος να αγορά τις ηλεκτρικές συσκευές για να κάνει το σπιτικό του.
+
+https://www.skroutz.gr/s/11437338/Indesit-IFW-6841-JH-IX.html
+
+https://www.skroutz.gr/s/6933887/Whirlpool-Ψυγειοκαταψύκτης-Inox-A-BLF-8121-OX.html
+
+https://www.skroutz.gr/s/5576659/Pitsos-WQP1200G9.html
+
+https://www.skroutz.gr/s/11668401/Davoline-IOS-HPC-IX-60cm-Inox.html
+
+https://www.skroutz.gr/s/9431588/Whirlpool-WIC-3C23-PEF.html
+
+Πήρα τα links από τα πιο δημοφιλή σε κάθε κατηγορία του κάθε προϊόντος. Μπορείτε να βάλετε τα παραπάνω link στο πρόγραμμα και να σας πει από που θα τα πάρετε στην πιο χαμηλή τιμή.
